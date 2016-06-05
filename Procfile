@@ -1,1 +1,1 @@
-web: node bin/bot.js
+web: node slack_bot.js
